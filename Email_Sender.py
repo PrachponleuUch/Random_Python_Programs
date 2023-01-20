@@ -1,6 +1,3 @@
-#go to our gmail acc and setup 2 factor authentication
-#generate app password
-#create a function to send the email
 #meibhlwzsiaocsmq
 #smtp: simple message transfer protocol (for sending emails)
 #ftp: file transfer protocol (for sending files)
